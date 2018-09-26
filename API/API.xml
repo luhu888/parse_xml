@@ -1,0 +1,9 @@
+<test project="new_core">
+<API number="1">
+    <URL>http://xx.xx.xx.251:9000/api/auth</URL>
+        <body>
+            <phone>xxxxx</phone>
+            <password>xxxxx</password>
+        </body>
+</API>
+</test>

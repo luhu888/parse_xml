@@ -1,0 +1,4 @@
+Django==2.0.2
+jsonschema==2.6.0
+requests==2.18.4
+
